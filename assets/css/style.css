@@ -1,1 +1,8 @@
-/*wait why is this empty? */
+.img-fluid {
+    width: 200px;
+    height: 200px;
+}
+
+.background-img {
+    background-size: cover;
+}
